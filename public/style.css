@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body{
+    background-color: #eb3552 !important; /* Override style from Bootstrap*/
+    color: white !important;
+    font-family: 'Source Serif Pro',sans-serif !important;
+    font-weight: bold;
+    padding-top: 70px;
+}
+.content {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-content: center;
+    align-items: center
+}
